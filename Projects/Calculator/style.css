@@ -1,0 +1,56 @@
+body {
+    display: flex;
+    justify-content: center;
+
+}
+
+.form {
+    display: flex;
+    border: 2px solid black;
+    flex-direction: column;
+    width: 250px;
+    margin-top: 200px;
+    background-color: lightslategray;
+
+
+
+}
+
+.button {
+    display: flex;
+    border: 2px solid lightslategray;
+    flex-direction: row;
+}
+
+.number {
+    border: 2px solid black;
+    width: 50px;
+    text-align: center;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+
+}
+
+.down {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+
+.bigbutton {
+    border: 2px solid black;
+    width: 100px;
+    text-align: center;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+}
+
+.rawno {
+    margin-left: 48px;
+}
+
+.text {
+    height: 30px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 24px;
+}
